@@ -1,0 +1,7 @@
+{
+  "name": "shrinkwrap-default-dev",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@npmtest/example": "1.0.0"
+  }
+}

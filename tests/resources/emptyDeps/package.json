@@ -1,0 +1,7 @@
+{
+  "name": "shrinkwrap-empty-deps",
+  "version": "0.0.0",
+  "author": "Rockbert",
+  "dependencies": {},
+  "devDependencies": {}
+}
