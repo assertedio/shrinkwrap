@@ -1,7 +1,7 @@
 {
   "name": "@asserted/shrinkwrap",
   "description": "Asserted version of NPM shrinkwrap",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "author": "Eric Hacke",
   "bugs": {
     "url": "https://github.com/assertedio/shrinkwrap/issues"
