@@ -79,7 +79,7 @@
     "url": "git+https://github.com/assertedio/shrinkwrap.git"
   },
   "scripts": {
-    "beta": "npm version prerelease && npm publish",
+    "beta": "npm version prerelease && npm publish --tag beta",
     "commit": "git-cz",
     "lint": "fixpack && prettier-eslint --write && eslint --fix \"**/*.{js,ts}\"",
     "major": "npm version major && npm publish",
